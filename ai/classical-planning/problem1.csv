@@ -1,0 +1,12 @@
+Problem,Search,Actions,Expansions,Goal_Tests,New_Nodes,Plan_Length,Time
+1,breadth_first_search,20,43,56,178,6,0.014626304000103119
+1,depth_first_graph_search,20,21,22,84,20,0.004641303999960655
+1,uniform_cost_search,20,60,62,240,6,0.011428587999944284
+1,greedy_best_first_graph_search with h_unmet_goals,20,7,9,29,6,0.001194162000047072
+1,greedy_best_first_graph_search with h_pg_levelsum,20,6,8,28,6,0.3068314219999593
+1,greedy_best_first_graph_search with h_pg_maxlevel,20,6,8,24,6,0.07518887099990934
+1,greedy_best_first_graph_search with h_pg_setlevel,20,6,8,28,6,0.46945447900020554
+1,astar_search with h_unmet_goals,20,50,52,206,6,0.008710771000096429
+1,astar_search with h_pg_levelsum,20,28,30,122,6,0.1535122309999224
+1,astar_search with h_pg_maxlevel,20,43,45,180,6,0.13842964500008748
+1,astar_search with h_pg_setlevel,20,33,35,138,6,0.41987467300009484
